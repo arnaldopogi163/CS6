@@ -1,0 +1,61 @@
+Installations Anleitung: (vorher Durchlesen!)
+
+1. Deaktiviere die Internetverbindung oder ziehe das Internetkabel ab.
+   (optional) Vergewissere dich, dass keine von diesen Dingen in der "hosts" datei eingetragen sind:
+   
+   127.0.0.1 lmlicenses.wip4.adobe.com
+   127.0.0.1 lm.licenses.adobe.com
+
+   Für eine saubere Installation :)
+   (Hier findest du deine "hosts" Datei C:\windows\system32\drivers\etc\hosts)
+
+2. Öffne den Keymaker. Du findest ihn unter dem Namen "xf-mccs6" als RAR-Datei im Ordner "Crack-Windows".
+   ( Programm geöffnet lassen während allen Schritten!)
+
+3. Führe die "Set-up.exe" Datei aus. Sie befindet sich im Ordner "MasterCollection_CS6_LS16" im Unterordner "Adobe CS6".
+   Wenn Adobe fragt, ob du Installieren oder Testen möchtest wähle Installieren.
+
+4. Übertrage das, was in der Spalte "Serial" des Keymakers angegeben ist als Seriennummer.
+   Wenn der Fehler "Please connect to the internet and retry"(verbindungsfehler - 
+   Internetverbindung aktivieren) angezeigt wird wähle später verbinden.
+
+5. Öffne eins der Adobe Programme (Photoshop, Illustrator etc).
+
+6. Bestätige, dass du ein "connection problem" (Verbindungsproblem) hast und offline aktivieren möchtest.
+
+7. Ein "request code" (Anfrage Code) wird nun von Adobe angezeigt. Benutze ihn mit der Seriennummer, mit der du Adobe 
+   installiert hast, um deinen Aktivierungscode zu generieren.
+   Übertrage ihn in das Feld "Request" im Keymaker und drücke "Generate".
+
+8. Übertrage den generierten Aktivierungscode und bestätige :).
+
+9. Wenn die Installation fertig ist: 
+   Führe  "disable_activation.cmd", das sich im Ordner "Crack-Windows" befindet aus (Doppelklick darauf). 
+   (bei Vista oder Win7, öffne es als Admin falls du uac aktiviert hast)
+
+   Oder mach es manuell:
+   Füge folgenden Text ans Ende (!) deiner "hosts" Datei hinzu. 
+
+# Adobe Blocker
+
+127.0.0.1 lmlicenses.wip4.adobe.com
+127.0.0.1 lm.licenses.adobe.com
+
+10. Nach der Aktivierung kannst du deine Internetverbindung wieder aktivieren und den 
+    Keymaker schließen.
+
+11. Fertig. Viel Spaß mit den Adobe Programmen!
+
+
+Anmerkung: Wenn du Probleme durch eine vorherige Installation/ Crack hast, deinstalliere die 
+   Master collection und lösche folgende Ordner:
+
+C:\Program Files (x86)\Common Files\Adobe\SLCache
+C:\ProgramData\Adobe\SLStore
+
+
+*********************************
+* Accept no imitation / X-FORCE *
+*-------------------------------*
+*      We are the world #1      *
+*********************************
